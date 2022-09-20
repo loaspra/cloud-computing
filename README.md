@@ -31,7 +31,18 @@ Como se observa en la imagen, además de tener un pod que representa el nodo fol
 
 ![image](https://user-images.githubusercontent.com/40249960/191155526-d4272c83-01a0-41e0-a099-d16f4b4f91ce.png)
 
-Referencias:
+## Deployment
+
+Sirviendo la aplicación (el front end) en el puerto 80 del localhost:
+
+![image](https://user-images.githubusercontent.com/40249960/191155925-00daa02a-26d5-4318-8c57-1c4e7e46dfb0.png)
+
+Front-end de la aplicación:
+
+![image](https://user-images.githubusercontent.com/40249960/191156041-8298c74f-f7b9-49ab-8ef9-ba24a85819ee.png)
+
+
+## Referencias:
 
 + https://kubernetes.io/docs/tutorials/stateless-application/guestbook/ 
 + https://cloud.google.com/static/kubernetes-engine/images/guestbook_diagram.svg
